@@ -1,4 +1,4 @@
-# ESP32 V1.1 (USB C)
+# Soldering Station V1.2
 ## 3D views
-![ESP32 V1 1(1)](https://github.com/user-attachments/assets/78398ef1-cfe7-407e-9383-15947b848cc4)
-![ESP32 V1 1(2)](https://github.com/user-attachments/assets/9a541e9b-8bad-44ff-84cb-d28f7d16c573)
+![T12 soldering station V1 2(1)](https://github.com/user-attachments/assets/8269d49c-c016-4503-af81-05556bd6f2dc)
+![T12 soldering station V1 2(2)](https://github.com/user-attachments/assets/df3d08ef-7ee4-49da-8c38-11a47e37f82c)
